@@ -1,6 +1,8 @@
 # PruebaAudisoft
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+##local Deploy
+run `npm i` for install pakages
 
 ## Development server
 
